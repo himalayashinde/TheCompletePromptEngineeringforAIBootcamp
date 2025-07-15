@@ -48,3 +48,11 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Five Principles of Prompt Engineering
+1. Give direction
+2. Specify the format
+3. provide examples
+4. Evaluate Quality
+5. Divide labour
