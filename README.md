@@ -60,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Section 2 
 Evaluate Quality started at 22:34 pm on 17-07-2025
 divide labour started at 22:40 pm on 17-07-2025
+section 2 completed at 23:00 pm on 17-07-2025
