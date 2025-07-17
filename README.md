@@ -56,3 +56,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 3. provide examples
 4. Evaluate Quality
 5. Divide labour
+
+## Section 2 
+Evaluate Quality started at 22:34 pm on 17-07-2025
