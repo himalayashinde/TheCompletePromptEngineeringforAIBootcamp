@@ -66,3 +66,6 @@ section 2 completed at 23:00 pm on 17-07-2025
 1) What are Tokens?
 2) AI hallucination
 3) chat models vs reasoning models
+
+## Section 4
+ video 25 completed
