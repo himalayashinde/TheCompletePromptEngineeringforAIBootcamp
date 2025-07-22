@@ -61,3 +61,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Evaluate Quality started at 22:34 pm on 17-07-2025
 divide labour started at 22:40 pm on 17-07-2025
 section 2 completed at 23:00 pm on 17-07-2025
+
+## Section 3
+1) What are Tokens?
+2) AI hallucination
+3) chat models vs reasoning models
